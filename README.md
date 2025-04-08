@@ -1,3 +1,3 @@
 # YarpDemo
 
-A scratchpad for [YARP](https://github.com/dotnet/yarp).
+A scratchpad for [YARP](https://dotnet.github.io/yarp/).
